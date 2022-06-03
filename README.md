@@ -28,11 +28,13 @@ If a JPG image is analyzed, the program will:
 
 # Example Output
 1) Successful match
+
 ![image](https://user-images.githubusercontent.com/77559638/171912953-d093c41c-cf7e-4cb3-8e7e-213c9e290ff3.png)
 
 ![image](https://user-images.githubusercontent.com/77559638/171912981-891bef8c-2793-4e22-b4cd-27c5e8d7e188.png)
 
 2) Unsuccessful match
+
 ![image](https://user-images.githubusercontent.com/77559638/171913072-8b623388-6cbe-46d8-8f86-9af1522a0a97.png)
 
 ![image](https://user-images.githubusercontent.com/77559638/171913103-eb297141-ccc3-4720-93b0-5805f0e68b0a.png)
