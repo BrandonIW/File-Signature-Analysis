@@ -88,7 +88,7 @@ def _file_signature_analysis(logger, sig, file_path):
     file_sig = binascii.hexlify(content)[:len(sig)].decode()
     logger.info(f"Expected File Signature: {sig} | Received File's Signature: {file_sig}")
 
-    return True if file_sig == sig else False
+    return True if file_sig.lower() == sig.lower() else False
 
 
 def _parse_sigs(logger):
